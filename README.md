@@ -11,6 +11,8 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/chengxs1994/ChatGPT-SDImg-Web)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/chengxs1994/ChatGPT-SDImg-Web)
+
 ## 效果展示
 #### AI二维码，扫码加好友
 <div>
